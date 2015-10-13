@@ -1,4 +1,9 @@
-my_project
-==========
+# php-payroll
+A simple command line tool using the Symfony Console Component
 
-A Symfony project created on May 18, 2015, 10:37 pm.
+## Running the application
+
+    cd /path/to/process_payroll
+    phpunit -c app
+    php application.php start:payroll
+    cat ./files/payroll_files/payroll_(TIMESTAMP).csv
