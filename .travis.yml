@@ -2,4 +2,4 @@ language: php
 script: phpunit -c app
 sudo: true
 before_install:
-  - chmod 777 -R /home/travis/build/Cein-Markey/
+  - chmod 777 -R /home/travis/build/Cein-Markey/php-payroll/app/bootstrap.php.cache
