@@ -1,4 +1,5 @@
-# php-payroll
+<img src="https://travis-ci.org/Cein-Markey/php-payroll.svg?branch=master"/>
+# php-payroll 
 A simple command line tool using the Symfony Console Component
 
 ## Running the application
