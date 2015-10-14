@@ -1,5 +1,7 @@
-<img src="https://travis-ci.org/Cein-Markey/php-payroll.svg?branch=master"/>
+[![Build Status](https://travis-ci.org/Cein-Markey/php-payroll.svg?branch=master)](https://travis-ci.org/Cein-Markey/php-payroll)
+
 # php-payroll 
+
 A simple command line tool using the Symfony Console Component
 
 ## Running the application
