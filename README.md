@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.org/Cein-Markey/php-payroll.svg?branch=master)](https://travis-ci.org/Cein-Markey/php-payroll)
 [![Coverage Status](https://coveralls.io/repos/Cein-Markey/php-payroll/badge.svg?branch=master&service=github)](https://coveralls.io/github/Cein-Markey/php-payroll?branch=master)
 [![Dependency Status](https://www.versioneye.com/user/projects/5625661a36d0ab0021000d61/badge.svg?style=flat)](https://www.versioneye.com/user/projects/5625661a36d0ab0021000d61)
+[![Latest Stable Version](https://poser.pugx.org/ceinmarkey/process_payroll/v/stable)](https://packagist.org/packages/ceinmarkey/process_payroll)
 
 # php-payroll 
 
