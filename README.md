@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/Cein-Markey/php-payroll.svg?branch=master)](https://travis-ci.org/Cein-Markey/php-payroll)
+[![Coverage Status](https://coveralls.io/repos/Cein-Markey/php-payroll/badge.svg?branch=master&service=github)](https://coveralls.io/github/Cein-Markey/php-payroll?branch=master)
 
 # php-payroll 
 
