@@ -7,12 +7,22 @@
 
 A simple command line tool using the Symfony Console Component
 
-## Running the application
+## Run Build
 
     $ cd /path/to/process_payroll
     $ composer install
+    
+## Run Tests
+
     $ phpunit -c app
+    
+## Run Application
+
     $ php application.php start:payroll
+    
+## View Results
+    
+    $ cd /path/to/process_payroll
     $ cat ./files/payroll_files/payroll_(TIMESTAMP).csv
 
 ##Example
